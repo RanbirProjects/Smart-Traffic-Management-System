@@ -1,8 +1,15 @@
 🚦 Smart Traffic Management System
 
 A comprehensive real-time traffic management system built with the MERN stack (MongoDB, Express.js, React.js, Node.js) featuring intelligent signal control, vehicle tracking, emergency management, and advanced analytics.
-
- 🌟 Features
+Dashbord
+![344977F6-7A85-4139-BE0A-CB2B93E671A7](https://github.com/user-attachments/assets/835be4d6-d264-4b58-b24a-2c0335dbb5ec)
+Traffic signal
+![89DD1659-E948-40D5-92FA-A657DF5C2AF8](https://github.com/user-attachments/assets/8adcd9e6-d455-4fc3-9785-7b328eb08ae5)
+Vehicle
+![7D157934-7027-454F-BEE7-7CFD68CD20B5](https://github.com/user-attachments/assets/2960d3ae-9bb4-42f5-a8ef-4b9645381282)
+Analytics
+![18EB5BB8-CBAF-407D-85A0-2963968BDEED](https://github.com/user-attachments/assets/093cc2d1-b4ee-4468-8ca4-ba537036f35a)
+🌟 Features
 
 🎯 Core Functionality
 - Real-time Traffic Signal Control**: Manual and automated signal management
